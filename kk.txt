@@ -1,1 +1,6 @@
+this is a change 
+<<<<<<< HEAD
 pepe rodriguez lopez
+=======
+this is a change
+>>>>>>> origin/master
